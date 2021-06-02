@@ -1,2 +1,2 @@
-# NewNK
- A simple game.
+# Game.1
+ issa game
