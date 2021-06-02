@@ -1,0 +1,2 @@
+# NewNK
+ A simple game.
